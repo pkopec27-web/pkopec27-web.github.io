@@ -1,0 +1,17 @@
+{
+  "name": "Frekwencja+",
+  "short_name": "Frekwencja+",
+  "description": "Planer frekwencji dla ucznia: ile lekcji możesz opuścić i kiedy lepiej przyjść.",
+  "lang": "pl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF1EC",
+  "theme_color": "#1F5C46",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
